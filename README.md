@@ -16,7 +16,7 @@ The Advanced Consumer Insight Engine is a cutting-edge project combining web scr
 - **Product Development Insights:** Informed strategies in product development and inventory management.
 
 ## Tech Stack
-- **Languages:** Python, JavaScript
+- **Languages:** Python
 - **Libraries:** BeautifulSoup, Scrapy, NLTK, Word2Vec
 - **Data Analysis:** Python (Pandas, NumPy), SQL
 - **Machine Learning:** Scikit-Learn
